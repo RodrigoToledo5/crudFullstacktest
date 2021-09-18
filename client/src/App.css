@@ -1,0 +1,11 @@
+*{
+  font-family: 'sen', sans-serif;
+  font-weight: 100;
+}
+.error{
+  color:gray;
+  border:red;
+}
+.error::placeholder{
+  color:red;
+}
